@@ -2,7 +2,6 @@ import threading
 from selenium import webdriver
 from time import sleep
 import pandas as pd
-from selenium.common.exceptions import NoSuchElementException
 from selenium.common.exceptions import NoSuchWindowException
 import requests
 from bs4 import BeautifulSoup
